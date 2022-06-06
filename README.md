@@ -5,7 +5,7 @@ This repo contains simple code with two resources. The goal is to separate the t
 # Prerequisite
 You need to have [Terraform CLI](https://learn.hashicorp.com/tutorials/terraform/install-cli) installed on you workstation. 
 
-
+# How to use the repo
 * Clone this repo locally to a folder of your choice
 ```
 git clone https://github.com/51r/move-state-sample.git
