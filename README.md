@@ -2,6 +2,8 @@
 
 This repo contains simple code with two resources. The goal is to separate the two resources in different modules and separate the state.
 
+I have included a folder "result" which contains the final result from the task above.
+
 # Prerequisite
 You need to have [Terraform CLI](https://learn.hashicorp.com/tutorials/terraform/install-cli) installed on you workstation. 
 
