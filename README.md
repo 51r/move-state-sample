@@ -30,6 +30,7 @@ terraform plan
 ```
 terraform apply
 ```
+
 * Check the Terraform state:
 ```
 terraform state list
